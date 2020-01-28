@@ -1,0 +1,50 @@
+form_type,form_description,received,approved,denied,pending,base_type,category_code
+Ashwini,Digital Artist,11460,5708,1991,28587,Artist,1
+Suman,Media creator,199214,134532,11754,1348685,Artist,1
+Sam,Painter,85009,63872,7797,335762,Artist,1
+Harry,Digital Artist,587,471,65,521,Artist,1
+Maya,Traditional Artist,15166,15843,725,21464,Artist,1
+Aisha,Origami Specialist,42913,23402,1342,215780,Artist,1
+Kaira,Indian Handicraft Practitoner,1731,1740,15,783,Artist,1
+Sameer,Stage Artist,90753,106869,32829,112588,Standup Comedian,2
+Sid,Stage Artist,27581,27753,2488,56701,Standup Comedian,2
+Zack,Stage Artist,33320,30472,2142,142561,Standup Comedian,2
+Ganesh,Online Comedian,2862,2746,298,22475,Standup Comedian,2
+Junlu,Online Comedian,383011,330017,32700,571798,Standup Comedian,2
+Willam,Post Creator,862,901,0,6243,Standup Comedian,2
+Tara,Post Creator,345,112,38,1402,Standup Comedian,2
+Vikram,Indian Cusine,7206,7465,281,24234,Culinary Expert,3
+Zoya,Italian Cusine,25937,17390,347,54669,Culinary Expert,3
+Riya,Italian Cusine,0,0,0,0,Culinary Expert,3
+Pamella,Italian Cusine,19731,18513,510,59092,Culinary Expert,3
+John,Italian Cusine,32420,3231,47,307635,Culinary Expert,3
+Rajesh,Indian Cusine,13,18,47,241,Culinary Expert,3
+Suraj,Indian Cusine,3206,1700,412,10598,Culinary Expert,3
+Jai,Indian Cusine,213,97,10,1172,Culinary Expert,3
+Om,Indian Cusine,9550,10071,785,28898,Culinary Expert,3
+Jeff,Chinese Cusine,29527,98639,2549,45806,Culinary Expert,3
+Yusuf,Persian Cusine,22065,0,0,2457,Culinary Expert,3
+Imam,Persian Cusine,131,48,11,553,Culinary Expert,3
+Arya,Indian Cusine,2573,0,0,216,Culinary Expert,3
+Sonam,Indian Cusine,629,316,130,2482,Culinary Expert,3
+Craig,Mexican Cusine,14824,4791,908,201279,Culinary Expert,3
+Miguel,Mexican Cusine,313,270,58,1558,Culinary Expert,3
+Yashasvi,Guitarist,0,0,0,90,Musician,4
+Hussain,Guitarist,1082,519,501,4192,Musician,4
+Anna,Guitarist,1069,755,191,5749,Musician,4
+Mark,Guitarist,178879,165675,19959,724219,Musician,4
+Riddhi,Singer,27,30,26,45,Musician,4
+Alisha,Singer,5054,3397,492,16471,Musician,4
+Mishal,Singer,12011,14696,928,42402,Musician,4
+Meghana,Violinist,0,0,0,10,Musician,4
+Anu,Violinist,708,1665,860,1325,Musician,4
+Leela,Photographer,166992,211343,13241,564658,Other,5
+Raman,Photographer,1385,1208,349,2714,Other,5
+Ishitha,Photographer,17519,17853,1736,18551,Other,5
+Sunaina,Life Coach,94785,73967,13177,118790,Other,5
+Prathibha,Life Coach,31,21,13,746,Other,5
+Hemant,Life Coach,9622,3684,941,43149,Other,5
+Liam,Blogger,9355,5070,975,34073,Other,5
+Jane,Blogger,52562,45359,8444,87548,Other,5
+Hermine,Blogger,2766,1974,410,5821,Other,5
+Daniel,Blogger,19604,8507,2185,182712,Other,5
