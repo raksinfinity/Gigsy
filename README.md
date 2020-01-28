@@ -9,3 +9,9 @@ new.html - basic html file containing links to other scripts, div is defined her
 immigration.js - contains all function for collecting data and creating visualizations.
 d3-tip.js - contains methods for creating the tooltip
 app.css- contains the styling
+csv - file contains the data where form_type is name
+                                   received-total
+                                   approved-bronze
+                                   denied-silver
+                                   pending-gold
+                                   base_type-category
